@@ -135,6 +135,42 @@ namespace Proyecto1A.CapaDatos
             return dt;
         }
 
+    
+
+    public static List<Clientes2> ListarActivos()
+        {
+            List<Clientes2> lista = new List<Clientes2>();
+
+            using (SqlConnection con = new SqlConnection(Conexion.Cadena))
+            {
+                string sql = "SELECT * FROM Cliente WHERE Estado = 1";
+
+                using (SqlCommand cmd = new SqlCommand(sql, con))
+                {
+                    con.Open();
+                    using (SqlDataReader dr = cmd.ExecuteReader())
+                    {
+                        while (dr.Read())
+                        {
+                            lista.Add(new Clientes2
+                            {
+                                Id = Convert.ToInt32(dr["Id"]),
+                                Nombre = dr["Nombre"].ToString(),
+                                Dui = dr["Dui"].ToString(),
+                                Telefono = dr["Telefono"].ToString(),
+                                Correo = dr["Correo"].ToString(),
+                                Estado = Convert.ToBoolean(dr["Estado"])
+                            });
+                        }
+                    }
+                }
+            }
+
+            return lista;
+        }
+
+
+
     }
 
 }

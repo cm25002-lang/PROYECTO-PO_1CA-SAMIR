@@ -22,5 +22,8 @@ namespace Proyecto1A.CapaEdentidad
 
         public bool Estado { get; set; }
 
+        public int Id_Categoria { get; set; }
+
+
     }
 }

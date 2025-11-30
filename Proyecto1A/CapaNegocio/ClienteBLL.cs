@@ -38,6 +38,16 @@ namespace Proyecto1A.CapaNegocio
             }
         }
 
+        private void Actualizar(Clientes2 c)
+        {
+            throw new NotImplementedException();
+        }
+
+        private int Insertar(Clientes2 c)
+        {
+            throw new NotImplementedException();
+        }
+
         public void Eliminar(int id)
 
         {
