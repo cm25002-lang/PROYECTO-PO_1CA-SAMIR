@@ -1,0 +1,17 @@
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\bin\Debug\Proyecto1A.exe.config
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\bin\Debug\Proyecto1A.exe
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\bin\Debug\Proyecto1A.pdb
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\obj\Debug\Proyecto1A.csproj.AssemblyReference.cache
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\obj\Debug\Proyecto1A.Sabor.resources
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\obj\Debug\Proyecto1A.CapaPresentacion.FrmClientes.resources
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\obj\Debug\Proyecto1A.CapaPresentacion.FrmCategoria.resources
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\obj\Debug\Proyecto1A.CapaPresentacion.FrmCategoriaEliminar.resources
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\obj\Debug\Proyecto1A.CapaPresentacion.frmCategoriaGestion.resources
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\obj\Debug\Proyecto1A.CapaPresentacion.FrmClientes2.resources
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\obj\Debug\Proyecto1A.CapaPresentacion.FrmProductos.resources
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\obj\Debug\Proyecto1A.CapaPresentacion.FrmRegistrarVenta.resources
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\obj\Debug\Proyecto1A.Properties.Resources.resources
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\obj\Debug\Proyecto1A.csproj.GenerateResource.cache
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\obj\Debug\Proyecto1A.csproj.CoreCompileInputs.cache
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\obj\Debug\Proyecto1A.exe
+C:\Users\ZRK\Desktop\PROYECTO PO_1CA\Proyecto1A\obj\Debug\Proyecto1A.pdb
